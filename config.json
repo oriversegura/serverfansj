@@ -1,6 +1,6 @@
 {
-    "user": "user", 
-    "password": "securepassword123",
+    "user": "Secureuser", 
+    "password": "SecurePassword123",
     "ip": "192.168.1.1",
-    "speed": "20"
+    "speed": "40"
 }
