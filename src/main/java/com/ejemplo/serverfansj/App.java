@@ -23,6 +23,7 @@ public class App {
 
             System.out.println("Config sucesfull loaded!");
 
+
             Command.validateIpmi();
 
             Command.commandOne(config);
